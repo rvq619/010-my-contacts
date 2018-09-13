@@ -1,2 +1,6 @@
 # 010-my-contacts
-My contact list that allows you to filter.
+Contact list that filters. 
+
+Technologies used:
+- HTML5
+- Vanilla JavaScript
